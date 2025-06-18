@@ -1,14 +1,6 @@
-package Baekjoon.silver.m6w3;
+package Baekjoon.silver.큐2_18258;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.Deque;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.StringTokenizer;
-
-public class Queue2_18258_wooseok {
+public class wooseok {
 
     //1. Queue 인터페이스를 이용한 풀이
     /*public static void main(String[] args) throws IOException {
